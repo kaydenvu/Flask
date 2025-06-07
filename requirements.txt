@@ -29,7 +29,6 @@ docopt==0.6.2
 executing==2.2.0
 fastjsonschema==2.21.1
 Flask==3.1.0
-flaskr @ file:///Users/kaydenvu/Downloads/myproject/flaskr-1.0.0-py3-none-any.whl#sha256=202c19fada5dbffef0df55b759b17e1a79d619625ed2dfc2a5998fe1a3d0e552
 flatbuffers==25.2.10
 gast==0.6.0
 google-pasta==0.2.0
